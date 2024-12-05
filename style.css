@@ -32,5 +32,17 @@ a{
 
 .section1{
     display: flex;
+    justify-content: space-around;
+}
+
+.left-section1{
+    display: flex;
+    width: 300px;
+
+}
+
+.right-section1{
+    display: flex;
+    width: 300px;
 
 }
